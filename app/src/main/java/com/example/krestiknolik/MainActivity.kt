@@ -222,8 +222,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         firstPlayer = ArrayList<Int>()
         secondPlayer = ArrayList<Int>()
     }
-    fun axlidan (){
-        init()
+    fun axlidan (){        
         txt1.text = "player 1 : 0"
         pl1=0
         txt2.text = "player 2 : 0"
